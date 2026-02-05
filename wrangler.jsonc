@@ -1,0 +1,7 @@
+{
+  "name": "youware-react-template",
+  "compatibility_date": "2026-02-05",
+  "assets": {
+    "directory": "./dist"
+  }
+}
